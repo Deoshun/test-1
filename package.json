@@ -1,0 +1,25 @@
+{
+  "name": "test-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deoshun/test-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deoshun/test-1/issues"
+  },
+  "homepage": "https://github.com/Deoshun/test-1#readme",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "eslint": "^8.19.0",
+    "mocha": "^10.0.0",
+    "sinon": "^14.0.0"
+  }
+}
