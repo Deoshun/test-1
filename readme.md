@@ -6,7 +6,6 @@ type in
 
 ```
 npm i
-
 ```
 
 
@@ -15,7 +14,6 @@ to install packages (not actually nessasary) then type
 
 ```
 node index.js
-
 ```
 
 to run the code
